@@ -51,6 +51,3 @@ The dataset consists of potato leaf images categorized into:
 > Which can be found on Kaggle
 
 ---
-
-## Project Structure
-
